@@ -1,1 +1,1 @@
-# image-alignment-2
+# image-alignment
